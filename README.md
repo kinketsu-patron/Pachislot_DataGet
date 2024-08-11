@@ -1,0 +1,2 @@
+# Pachislot_DataGet
+パチスロ実機のデータ収集Arduinoプログラム
